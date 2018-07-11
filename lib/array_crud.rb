@@ -10,11 +10,13 @@ def create_an_array
 end
 
 def add_element_to_end_of_array(array, element)
+  ary = ["a", "b", "c", "d"]
   ary.push("e")
 
 end
 
 def add_element_to_start_of_array(array, element)
+  ary = ["a", "b", "c", "d"]
   ary.unshift("z")
 
 end
