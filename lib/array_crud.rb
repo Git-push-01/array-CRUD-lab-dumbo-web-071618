@@ -11,13 +11,13 @@ end
 
 def add_element_to_end_of_array(array, element)
 
-  ary.push("e")
+  ary.push(elment)
 
 end
 
 def add_element_to_start_of_array(array, element)
   
-  ary.unshift("z")
+  ary.unshift(element)
 
 end
 
